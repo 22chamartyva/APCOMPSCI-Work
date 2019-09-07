@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReviewVariablesAndIfs
+public class ReviewVariablesAndIfs extends truthTable
 {
 public static void main()
 {

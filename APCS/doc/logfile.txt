@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.base.jar:/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.controls.jar:/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.fxml.jar:/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.graphics.jar:/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.media.jar:/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.properties.jar:/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.swing.jar:/Users/VarunChamarty/Desktop/Desk top files/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.web.jar:/Users/VarunChamarty/BEEP
+-d
+/Users/VarunChamarty/BEEP/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/VarunChamarty/BEEP/truthTable.java
+<---- end of javadoc command ---->
+Loading source file /Users/VarunChamarty/BEEP/truthTable.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating /Users/VarunChamarty/BEEP/doc/truthTable.html...
+Generating /Users/VarunChamarty/BEEP/doc/package-summary.html...
+Generating /Users/VarunChamarty/BEEP/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/VarunChamarty/BEEP/doc/allclasses.html...
+Generating /Users/VarunChamarty/BEEP/doc/allclasses.html...
+Generating /Users/VarunChamarty/BEEP/doc/index.html...
