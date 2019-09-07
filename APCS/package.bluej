@@ -3,26 +3,16 @@ editor.fx.0.height=727
 editor.fx.0.width=1280
 editor.fx.0.x=0
 editor.fx.0.y=23
-objectbench.height=100
-objectbench.width=1256
+objectbench.height=102
+objectbench.width=776
 package.divider.horizontal=0.6
-<<<<<<< HEAD
-package.divider.vertical=0.8398203592814372
-package.editor.height=554
-package.editor.width=1154
-package.editor.x=0
-package.editor.y=24
-package.frame.height=726
-package.frame.width=1280
-=======
-package.divider.vertical=0.791231732776618
-package.editor.height=372
-package.editor.width=670
-package.editor.x=217
-package.editor.y=229
+package.divider.vertical=0.7907869481765835
+package.editor.height=405
+package.editor.width=674
+package.editor.x=493
+package.editor.y=107
 package.frame.height=579
 package.frame.width=800
->>>>>>> parent of 06a812c... bety
 package.numDependencies=0
 package.numTargets=3
 package.showExtends=false
