@@ -27,7 +27,7 @@ public class truthTable
     }
     int actuPets = 0;
      int numPets = thisScanner.nextInt();
-   if(numPets >= actuPets){ 
+   
     
         
     //int numPets = thisScanner.nextInt();
@@ -58,13 +58,7 @@ public class truthTable
     System.out.println("Do you have a cat");
     }
     //use int largePet when doing large cat
-    if(numPets == 2 && !hasDog){
-    System.out.println("You can't live here");
-    System.exit(0);
-    }
-    else{
-    System.out.println("");
-    }
+    
     boolean hasCat = thisScanner.nextBoolean();
     int badCat = 0;
     if(hasCat){
@@ -73,7 +67,7 @@ public class truthTable
      badCat = badCat + 1;
      int lbCat = thisScanner.nextInt();
      if(lbCat >= 15 && largePet == 1){
-          System.out.println("You can't life here");
+          System.out.println("You can't live here");
           System.exit(0);
         }
      else{
@@ -85,7 +79,7 @@ public class truthTable
     }
     boolean hasBird = thisScanner.nextBoolean();
     if(hasBird && badCat == 1){
-     System.out.println("You can't life here");
+     System.out.println("You can't live here");
      System.exit(0);
     }
     else{
@@ -114,9 +108,5 @@ public class truthTable
     
     
   } 
-  else{
-    System.out.println("You lied..  y would you do that... I thought we were friends");
-    System.exit(0);
-    }  
+  
  }
-}
